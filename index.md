@@ -1,10 +1,10 @@
 ## **Code Reviews**
 
 ## **Software Engineering Project**
-#### Weather Station
+##### Weather Station
 
 ## **Algorithms and Data Structures Project**
-#### Zoo Monitoring System
+##### Zoo Monitoring System
 
 ## **Databases Project**
-#### Client/Server System
+##### Client/Server System
