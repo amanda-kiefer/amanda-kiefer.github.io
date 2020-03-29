@@ -1,4 +1,4 @@
-## **[Code Reviews]{amanda-kiefer.github.io/CodeReview}**
+## **[Code Reviews](amanda-kiefer.github.io/CodeReview)**
 
 ## **Software Engineering Project**
 ##### Weather Station
