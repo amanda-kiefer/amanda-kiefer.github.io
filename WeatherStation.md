@@ -126,7 +126,11 @@ while True:
 
 ```
 
+
+
 ## View Video of Working Weather Station [Here](https://youtu.be/dbO3AOFffKA)
+
+
 
 ## HTML Dashboard Images Derived From Weather Station Data 
 ![StaticCanvas](https://user-images.githubusercontent.com/61916035/78588828-48d44400-780d-11ea-96f1-b6501150cc08.PNG)
