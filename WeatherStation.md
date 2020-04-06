@@ -2,7 +2,7 @@
 
 ## Weather Station Program in Python:
 
-'''
+```
 import grovepi
 import math
 import json # import JSON library
@@ -124,7 +124,7 @@ while True:
         print ("Error")
         setText("") # clear text from LCD
 
-'''
+```
 
 ## View Video of Working Weather Station [Here](https://youtu.be/dbO3AOFffKA)
 
