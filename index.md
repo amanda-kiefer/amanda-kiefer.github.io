@@ -9,10 +9,10 @@ This portfolio has been put together to showcase the valuable skills and abiliti
 ## **[Click Here for Code Reviews](amanda-kiefer.github.io/CodeReview)**
 
 ## **Software Engineering Project**
->[Click Here to View Weather Station Project](amanda-kiefer.github.io/WeatherStation)
+-[Click Here to View Weather Station Project](amanda-kiefer.github.io/WeatherStation)
 
 ## **Algorithms and Data Structures Project**
->[Click Here to View Zoo Monitoring System Project](amanda-kiefer.github.io/ZooMonitor)
+-[Click Here to View Zoo Monitoring System Project](amanda-kiefer.github.io/ZooMonitor)
 
 ## **Databases Project**
->[Click Here to View Client/Server System Project](amanda-kiefer.github.io/Database)
+-[Click Here to View Client/Server System Project](amanda-kiefer.github.io/Database)
