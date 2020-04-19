@@ -12,7 +12,7 @@ This portfolio has been put together to showcase the valuable skills and abiliti
 >[Weather Station](amanda-kiefer.github.io/WeatherStation)
 
 ## **Algorithms and Data Structures Project**
->Zoo Monitoring System
+>[Zoo Monitoring System](amanda-kiefer.github.io/ZooMonitor)
 
 ## **Databases Project**
 >[Client/Server System](amanda-kiefer.github.io/Database)
