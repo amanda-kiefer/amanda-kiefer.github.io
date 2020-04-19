@@ -6,13 +6,13 @@ The time spent taking online classes at Southern New Hampshire University to ear
 This portfolio has been put together to showcase the valuable skills and abilities I have gained while earning my degree. These projects come together to illustrate the completeness of my skillset and the extent of my well-rounded education. Each one not only shows the different skills I have learned, but also the methods and concepts which were consistently taught throughout each course I completed. The portfolio as a whole works to fully illustrate the skills and abilities I have gained from the Bachelor of Computer Science degree program at Southern New Hampshire University.  
 
 
-## **[Code Reviews](amanda-kiefer.github.io/CodeReview)**
+## **[Click Here for Code Reviews](amanda-kiefer.github.io/CodeReview)**
 
 ## **Software Engineering Project**
->[Weather Station](amanda-kiefer.github.io/WeatherStation)
+>[Click Here to View Weather Station Project](amanda-kiefer.github.io/WeatherStation)
 
 ## **Algorithms and Data Structures Project**
->[Zoo Monitoring System](amanda-kiefer.github.io/ZooMonitor)
+>[Click Here to View Zoo Monitoring System Project](amanda-kiefer.github.io/ZooMonitor)
 
 ## **Databases Project**
->[Client/Server System](amanda-kiefer.github.io/Database)
+>[Click Here to View Client/Server System Project](amanda-kiefer.github.io/Database)
